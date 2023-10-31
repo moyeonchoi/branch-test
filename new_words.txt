@@ -1,6 +1,8 @@
 university
 class
-hom
+home
 new
 lecture
+exam
+lab
 
